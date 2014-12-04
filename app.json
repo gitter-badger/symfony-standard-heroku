@@ -1,0 +1,10 @@
+{
+  "name": "Symfony Standard Edition",
+  "description": "The Symfony Standard Edition",
+  "repository": "https://github.com/fabpot/symfony-standard-heroku",
+  "logo": "http://symfony.com/logos/symfony_black_03.svg",
+  "keywords": ["symfony"],
+  "env": {
+    "SYMFONY_ENV": "prod"
+  }
+}

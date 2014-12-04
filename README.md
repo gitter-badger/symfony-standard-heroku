@@ -1,5 +1,7 @@
-Symfony Standard Edition
-========================
+Symfony Standard Edition on Heroku
+==================================
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/fabpot/symfony-standard-heroku/tree/2.6)
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new applications.
