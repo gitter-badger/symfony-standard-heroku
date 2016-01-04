@@ -1,6 +1,8 @@
 Symfony Standard Edition on Heroku
 ==================================
 
+[![Join the chat at https://gitter.im/TaqiOfficial/symfony-standard-heroku](https://badges.gitter.im/TaqiOfficial/symfony-standard-heroku.svg)](https://gitter.im/TaqiOfficial/symfony-standard-heroku?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/fabpot/symfony-standard-heroku/tree/2.6)
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
